@@ -1,6 +1,6 @@
 # Hi! I’m Jennifer Huang 👋
 
-*A second year Computer Science student 👩‍🎓, specializing in Software Engineering with a minor in Statistics, attending the University of Toronto*
+*A second year Computer Science student* 👩‍🎓*, specializing in Software Engineering with a minor in Statistics, attending the University of Toronto*
 
 Building useful things for students and communities. I love designing UI/UX interfaces and creating full-stack solutions! 💡
 
