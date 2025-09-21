@@ -1,6 +1,6 @@
 # Hi! I’m Jennifer Huang 👋
 
-**Computer Science Co‑op @ University of Toronto **
+*Computer Science Co‑op @ University of Toronto*
 Building useful things for students and communities. I love designing UI/UX interfaces and creating full-stack solutions!
 
 ## 🚀 What I’m working on
