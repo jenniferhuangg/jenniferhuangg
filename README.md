@@ -1,6 +1,6 @@
 # Hi! I’m Jennifer Huang 👋
 
-*Computer Science Co‑op @ University of Toronto*
+*A second year Computer Science student, specializing in Software Engineering with a minor in Statistics, attending the University of Toronto*
 
 Building useful things for students and communities. I love designing UI/UX interfaces and creating full-stack solutions!
 
@@ -10,14 +10,14 @@ StudyVerse — note‑sharing & flashcards for students (React/TypeScript, Tailw
 
 ConcertCloud — smarter seat finder & price insights (Python, data pipelines)
 
-UTSC SDSS site — accessibility & performance updates (TypeScript, CSS)
+SDSS UofT website — accessibility & performance updates (TypeScript, CSS)
 
 
 ## 🧰 Tech I use
 
 ### Languages
 
-`Python` · `Java` · `C` · `JavaScript` · `TypeScript` · `SQL` · `HTML` · `CSS` · `MIPS Assembly` · `Bash`
+`Python` · `Java` · `C` · `JavaScript` · `TypeScript` · `SQL` · `HTML` · `CSS` · `MIPS Assembly` · `Shell` · `Bash`
 
 ### Frameworks / Libraries
 
