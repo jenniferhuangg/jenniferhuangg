@@ -4,7 +4,7 @@
 
 Building useful things for students and communities. I love designing UI/UX interfaces and creating full-stack solutions!
 
-## 🚀 What I’m working on
+##💡 What I’m working on
 
 StudyVerse — note‑sharing & flashcards for students (React/TypeScript, Tailwind)
 
@@ -13,7 +13,7 @@ ConcertCloud — smarter seat finder & price insights (Python, data pipelines)
 SDSS UofT website — accessibility & performance updates (TypeScript, CSS)
 
 
-## 🧰 Tech I use
+## 💻 Tech I use
 
 ### Languages
 
