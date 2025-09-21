@@ -17,7 +17,7 @@ SDSS UofT website — accessibility & performance updates (TypeScript, CSS)
 
 ### Languages
 
-`Python` · `Java` · `C` · `JavaScript` · `TypeScript` · `SQL` · `HTML` · `CSS` · `MIPS Assembly` · `Shell` · `Bash`
+`Python` · `Java` · `C` · `JavaScript` · `TypeScript` · `SQL` · `HTML` · `CSS` · `MIPS Assembly` · `Shell` · `Bash` · `PHP`
 
 ### Frameworks / Libraries
 
