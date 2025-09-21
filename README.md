@@ -21,7 +21,7 @@ SDSS UofT website — accessibility & performance updates (TypeScript, CSS)
 
 ### Frameworks / Libraries
 
-`React` · `Next.js` · `FastAPI` · `Tailwind CSS`
+`React` · `Next.js` · `Node.js` · `FastAPI` · `Tailwind CSS`
 
 ### Systems / Databases
 
