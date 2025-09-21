@@ -1,9 +1,9 @@
-# Hi, I’m Jennifer Huang 👋
+# Hi! I’m Jennifer Huang 👋
 
 **Computer Science Co‑op @ University of Toronto **
 Building useful things for students and communities. I love designing UI/UX interfaces and creating full-stack solutions!
 
-🚀 What I’m working on
+## 🚀 What I’m working on
 
 StudyVerse — note‑sharing & flashcards for students (React/TypeScript, Tailwind)
 
