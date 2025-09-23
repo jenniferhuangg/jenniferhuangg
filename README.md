@@ -8,7 +8,7 @@ Building useful things for students and communities. I love designing UI/UX inte
 
 StudyVerse — note‑sharing & flashcards for students (React/TypeScript, Tailwind)
 
-ConcertCloud — smarter seat finder & price insights (Python, data pipelines)
+ConcertCloud — smarter seat finder & price insights (Python, data pipelines) (TBA)
 
 SDSS UofT website — accessibility & performance updates (TypeScript, CSS)
 
