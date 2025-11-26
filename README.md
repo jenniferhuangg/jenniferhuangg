@@ -16,7 +16,7 @@ Building useful things for students and communities. I love designing UI/UX inte
 
 ### Systems / Databases
 
-`PostgreSQL` · `MySQL` · `Socket programming (TCP/UDP, select/epoll)` · `Git` · `GitHub`
+`PostgreSQL` · `MySQL` · `Firebase` · `Git` · `GitHub`
 
 ### Tools & Design
 
