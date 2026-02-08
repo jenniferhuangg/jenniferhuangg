@@ -2,7 +2,7 @@
 
 *A Computer Science student* 👩‍🎓 *, specializing in Software Engineering with a minor in Statistics, currently attending the University of Toronto*
 
-Building useful things for students and communities. I love designing UI/UX interfaces and creating full-stack solutions! 💡
+I love building useful things for students and communities. I also love designing UI/UX interfaces and creating full-stack solutions! 💡
 
 ## 💻 Tech I use
 
