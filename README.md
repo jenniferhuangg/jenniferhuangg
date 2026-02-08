@@ -1,5 +1,4 @@
-# hi! 
-# I’m Jennifer Huang 👋
+# Hi! I’m Jennifer Huang 👋
 
 *A Computer Science student* 👩‍🎓 *, specializing in Software Engineering with a minor in Statistics, currently attending the University of Toronto *
 
